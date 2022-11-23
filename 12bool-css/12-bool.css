@@ -139,3 +139,7 @@
 .ofset-1{
     margin-left: calc(100% / 12);
 }
+
+.ofset-0{
+    margin-left: 0;
+}
