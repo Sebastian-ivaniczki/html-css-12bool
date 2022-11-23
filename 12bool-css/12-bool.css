@@ -35,11 +35,8 @@
     flex-grow: 1;
 }
 
-/* displaye flex */
 
-.d-flex{
-    display: flex;
-}
+
 /* 12 col sistem mobile first */
 
 .col-12{
@@ -143,3 +140,26 @@
 .ofset-0{
     margin-left: 0;
 }
+
+/* displaye */
+
+.d-flex{
+    display: flex;
+}
+
+.d-none{
+    display: none;
+}
+
+.d-block{
+    display: block;
+}
+
+.d-line{
+    display: inline;
+}
+
+.d-inline-block{
+    display: inline-block;
+}
+
