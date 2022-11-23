@@ -1,4 +1,9 @@
-.col{
+
+
+
+
+[class*='col']
+    {
     background-color: blue;
     height: 100px;
 
