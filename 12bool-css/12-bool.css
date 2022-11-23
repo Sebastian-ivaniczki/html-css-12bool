@@ -35,7 +35,11 @@
     flex-grow: 1;
 }
 
+/* displaye flex */
 
+.d-flex{
+    display: flex;
+}
 /* 12 col sistem mobile first */
 
 .col-12{
